@@ -1,0 +1,8 @@
+# Built artifacts are supplied in the ZIP, but not committed to GitHub source.
+*.exe
+source/runtime/*.assembling
+source/runtime/vlc-3.0.24-win64.zip
+__pycache__/
+*.pyc
+artifacts/
+*.test
